@@ -131,10 +131,10 @@ h2 {
 .header .navbar {
 	margin: 0;
 	background: transparent !important;
-	justify-content: center
+	justify-content: center;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-/*background-color: #5887FF;*/;
+/*background-color: #5887FF;*/
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
 	background: #5887FF;
